@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🐬 I’m currently working on data projects at [finleap connect](https://connect.finleap.com)
+- 🐬 I’m currently working on data projects at [Qwist](https://qwist.com/)
 - 🎲 I’m currently learning [game theory](https://en.wikipedia.org/wiki/Game_theory)
 - 🤝 I’m looking to collaborate on open source data projects for the enviroment or social good
 - 🍣 I’m looking for help with my sushi addiction
