@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 🍣 I’m looking for help with my sushi addiction
 - 💬 Ask me about data analysis and machine learning
 - 📫 How to reach me: [send me an email](mailto:francesco.ramoni@email.it)
-- 🙋‍♂️ Pronouns: he/him
 - 🐢 Fun fact: I like tortoises
